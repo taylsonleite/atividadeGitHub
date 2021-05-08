@@ -2,7 +2,7 @@ package br.edu.fafic.es.main;
 
 public class Subtracao {
 
-    public void mensagem(){
-        System.out.println("Apaguei o metodo subtração!!!!");
+    public Integer retornar(int a, int b){
+        return  a- b;
     }
 }
